@@ -1,2 +1,2 @@
-# meu-repos-de-autent-Dio
+# meu-repos-de-autentico-Dio
 Repositorio d testesde autentificacao.
